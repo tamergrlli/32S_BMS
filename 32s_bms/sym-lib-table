@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-08-11_06-55-12") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/symbols/2026-08-11_06-55-12.kicad_sym") (options "") (descr "PESD1CAN"))
+	(lib (name "ACT45B-110-2P-TL003") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/symbols/ACT45B-110-2P-TL003.kicad_sym") (options "") (descr "TDK CAN common-mode choke"))
+	(lib (name "SMI-1027-T-5V-R") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/symbols/SMI-1027-T-5V-R.kicad_sym") (options "") (descr "SMI-1027-T-5V-R"))
+)

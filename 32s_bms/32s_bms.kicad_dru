@@ -1,0 +1,4 @@
+(version 1)
+(rule "gnds_dolgu_tht"
+  (condition "A.Type == 'Zone' && A.NetName == '*GNDS' && B.Pad_Type == 'Through-hole'")
+  (constraint clearance (min 0.5mm)))

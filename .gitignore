@@ -1,0 +1,19 @@
+# KiCad per-user and temporary files
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+~*.lck
+fp-info-cache
+*.bak
+*-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Report files from local checks
+*.rpt
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

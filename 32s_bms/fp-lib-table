@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "32s_bms_lib") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/footprints/32s_bms_lib.pretty") (options "") (descr "Project footprints"))
+	(lib (name "LibraryCanLogger") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/footprints/LibraryCanLogger.pretty") (options "") (descr "CAN choke and TVS footprints"))
+	(lib (name "eCAR") (type "KiCad") (uri "${KIPRJMOD}/../32s_bms_lib/footprints/eCAR.pretty") (options "") (descr "Logo footprints"))
+)
